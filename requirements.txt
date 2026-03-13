@@ -1,0 +1,5 @@
+python-telegram-bot==21.3
+pymongo==4.7.3
+python-dotenv==1.0.1
+cloudscraper==1.2.71
+requests==2.31.0
